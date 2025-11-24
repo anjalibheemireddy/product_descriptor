@@ -122,7 +122,7 @@ Messages are preserved and can be exported.
 ## License
 
 This project is licensed under the terms included in the LICENSE file.
----
+
 
 ## Author
 
